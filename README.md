@@ -1,4 +1,4 @@
 # deep-compression
-Deep Compression utilizing an end-to-end CNN styled approach.
+Deep Compression utilizing denoising autoencoders
 
-<p> Paper in reference: <a href="https://arxiv.org/abs/1708.00838v1">An End-to-End Compression Framework Based on Convolutional Neural Networks</a>
+<p> Paper in reference: <a href="https://arxiv.org/pdf/1703.00395.pdf">Lossy Image Compression with Compressive Autoencoders</a>
