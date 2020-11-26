@@ -15,7 +15,7 @@ Deep Compression utilizing denoising autoencoders
 
 ## Preliminary Results
 
-#### This was generated using the following architecture (note lack of 'deep' and 'compressive') for 100 epochs
+#### This was generated using the following architecture (note lack of 'deep' and 'compressive') for 200 epochs
 ```python
 
 DAE(
